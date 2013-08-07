@@ -7,5 +7,4 @@ extras/documentation
 composer.lock
 .idea/
 *.cache
-data/DoctrineORMModule/Proxy/*
-config/autoload/*.local.php
+data/DoctrineORMModule/Proxy/*.*
