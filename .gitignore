@@ -1,0 +1,11 @@
+INSTALL.txt
+LICENSE.txt
+README.txt
+demos/
+extras/documentation
+.DS_Store
+composer.lock
+.idea/
+*.cache
+data/DoctrineORMModule/Proxy/*
+config/autoload/*.local.php
