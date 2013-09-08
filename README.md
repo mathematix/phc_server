@@ -1,7 +1,7 @@
 gocook_server
 =============
 
-just for test
+
 
 ##Introduction
 ------------
